@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Aulas C#\AulaClasseProduto\AulaClasseProduto\bin\Debug\net7.0\AulaClasseProduto.exe
+C:\Users\User\Documents\Aulas C#\AulaClasseProduto\AulaClasseProduto\bin\Debug\net7.0\AulaClasseProduto.deps.json
+C:\Users\User\Documents\Aulas C#\AulaClasseProduto\AulaClasseProduto\bin\Debug\net7.0\AulaClasseProduto.runtimeconfig.json
+C:\Users\User\Documents\Aulas C#\AulaClasseProduto\AulaClasseProduto\bin\Debug\net7.0\AulaClasseProduto.dll
+C:\Users\User\Documents\Aulas C#\AulaClasseProduto\AulaClasseProduto\bin\Debug\net7.0\AulaClasseProduto.pdb
+C:\Users\User\Documents\Aulas C#\AulaClasseProduto\AulaClasseProduto\obj\Debug\net7.0\AulaClasseProduto.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Aulas C#\AulaClasseProduto\AulaClasseProduto\obj\Debug\net7.0\AulaClasseProduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Aulas C#\AulaClasseProduto\AulaClasseProduto\obj\Debug\net7.0\AulaClasseProduto.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Aulas C#\AulaClasseProduto\AulaClasseProduto\obj\Debug\net7.0\AulaClasseProduto.AssemblyInfo.cs
+C:\Users\User\Documents\Aulas C#\AulaClasseProduto\AulaClasseProduto\obj\Debug\net7.0\AulaClasseProduto.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Aulas C#\AulaClasseProduto\AulaClasseProduto\obj\Debug\net7.0\AulaClasseProduto.dll
+C:\Users\User\Documents\Aulas C#\AulaClasseProduto\AulaClasseProduto\obj\Debug\net7.0\refint\AulaClasseProduto.dll
+C:\Users\User\Documents\Aulas C#\AulaClasseProduto\AulaClasseProduto\obj\Debug\net7.0\AulaClasseProduto.pdb
+C:\Users\User\Documents\Aulas C#\AulaClasseProduto\AulaClasseProduto\obj\Debug\net7.0\AulaClasseProduto.genruntimeconfig.cache
+C:\Users\User\Documents\Aulas C#\AulaClasseProduto\AulaClasseProduto\obj\Debug\net7.0\ref\AulaClasseProduto.dll
